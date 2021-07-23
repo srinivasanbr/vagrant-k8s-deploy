@@ -2,12 +2,12 @@
 
 ## Table of Contents   
 1) [Requirements](#)      
-	* [Install Vagrant](#)     
+	* [Install Vagrant](../docs/install-vagrant-libvirt.md)     
 2) [Deploy K8s](#)    
 
 ## Pre-requisites      
 ### Install Vagrant and Libvirt        
-Vagrant installation guide is located here. [Install Vagrant](../Docs/install-vagrant-libvirt.md)       
+Vagrant installation guide is located here. [Install Vagrant](../docs/install-vagrant-libvirt.md)       
 
 ## Deploy K8s           
 - Clone this repository         
